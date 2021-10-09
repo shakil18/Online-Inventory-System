@@ -9,8 +9,7 @@
 <!-- ABOUT THE PROJECT -->
 # Online Inventory System <a name = "about_the_project"></a>
 
-This GitHub repository is about to deploy a JavaEE based web-application. The web application is about an online inventory system. The inventory system stores all information into the SQL database. The system is developed by following [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) approach. 
-
+The Inventory Management System Java Project was developed using JavaEE programming Language. In this inventory management system in Java is similar to the stock management system where the user can add and update the product details. This is a simple java project built in Eclipse IDE with MySQL as a backend database. The system is developed by following [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) approach. 
 
 <!-- DIRECTORY STRUCTURE -->
 ## Directory Structure <a name = "directory_structure"></a>
